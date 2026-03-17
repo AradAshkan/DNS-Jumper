@@ -73,6 +73,4 @@ DNS Jumper Pro is a simple and practical tool for managing DNS settings on Windo
 Suggestions, bug reports, and Pull Requests are always welcome! Please ensure your changes do not break core functionality before submitting a PR.
 
 ---
-
-**Developer:** Arad  
 **Version:** Beta
